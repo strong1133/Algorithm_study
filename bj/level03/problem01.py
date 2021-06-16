@@ -2,8 +2,8 @@
 
 def Tool(a):
     for i in range(1, 10):
-        # print(str(a) + " * " + str(i) + " = " + str(a*i))
-        print(a, '*', i, '=', a*i)
+        print(str(a) + " * " + str(i) + " = " + str(a*i))
+        # print(a, '*', i, '=', a*i)
 
 
 a = int(input())
