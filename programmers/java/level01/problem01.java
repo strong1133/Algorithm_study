@@ -1,6 +1,4 @@
-
 // 2021-06-26 프로그래머스 level01 - 문자열 다루기 기본
-
 public class problem01 {
 
     public static boolean solution(String s) {

@@ -11,7 +11,7 @@ public class Problem01 {
         if (C <= B) {
             System.out.println("-1");
         } else {
-            System.out.println(A/(C-B)+1);
+            System.out.println(A / (C - B) + 1);
         }
 
     }
