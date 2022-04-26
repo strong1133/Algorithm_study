@@ -1,21 +1,18 @@
-// 2022-04-21 2-4강 <점수 계산>
+// 2022-04-26 2-5강 <등수 더하기 >
 
 
 const solution =(arr)=>{ 
-    let pre=0;
-    let score=0;
-    
-    for (i of arr){ 
-        if (i ==0){
-            pre = 0;
-        }else{
-            pre += i
-        }
-        score += pre;
+    let setArr = [...arr];
+    setArr.sort((a,b)=>b-a)
+    let res = []
+
+    for (i of arr){
+        res.push(setArr.indexOf(i) + 1)
     }
-    return score
+
+    return res
 }
 
 
-let arr= [1,0,1,1,1,0,0,1,1,0]
+let arr= [87, 89, 92, 100, 76]
 console.log(solution(arr))
