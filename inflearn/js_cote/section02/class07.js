@@ -13,6 +13,9 @@ const solution =(arr)=>{
                 let nx = i +dx[k];
                 let ny = j +dy[k];
 
+                console.log(nx, ny);
+
+
                 if (nx >= 0 && ny >=0 &&  nx<n && ny<n &&arr[nx][ny] >= arr[i][j]){
                     flag = 0;
                     break;
