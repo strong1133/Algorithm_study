@@ -7,4 +7,4 @@ function solution(num1, num2) {
     return ans;
 }
 
-console.log(solution(1,2))
+console.log(solution(1,2)) 
