@@ -21,18 +21,18 @@ function solution(denum1, num1, denum2, num2) {
    return res
 }
 
-
+// 최대 공약수 구하는 함수
 const gcd = (a, b) => {
    let res = 0;
-   if (b == 0){
+   if (b == 0) {
       res = a;
-   }else{
+   } else {
       res = gcd(b, a % b);
    }
    return res;
 
 }
 
-console.log(solution(1, 2, 3, 4)) 
-console.log(solution(9, 2, 1, 3)) 
+console.log(solution(1, 2, 3, 4))
+console.log(solution(9, 2, 1, 3))
 // console.log(gcd(5,10));
