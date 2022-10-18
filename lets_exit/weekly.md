@@ -16,3 +16,4 @@
 |사이트 | 번호 | 문제 이름 | 난이도 | 풀이 |
 |:------:|:------:|:----:|:---------:|:---------:|
 |[Programmers](https://programmers.co.kr/)| 1845 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|  Lv.1 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_20/P1845.js) |
+|[Programmers](https://programmers.co.kr/)| 42578 | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|  Lv.2 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_20/P42578.js) |
