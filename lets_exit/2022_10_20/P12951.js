@@ -1,4 +1,5 @@
-// 22-10-20 프로그래머스 - Let`s Exit 주간 알고리즘 > 기능 개발
+// 22-10-20 프로그래머스 - Let`s Exit 주간 알고리즘 > JadenCase 문자열 만들기
+
 
 function solution(str) {
     let tempStrList = str.toLowerCase().split(' ');
