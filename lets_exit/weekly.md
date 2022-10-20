@@ -18,3 +18,4 @@
 |[Programmers](https://programmers.co.kr/)| 1845 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|  Lv.1 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_20/P1845.js) |
 |[Programmers](https://programmers.co.kr/)| 42578 | [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|  Lv.2 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_20/P42578.js) |
 |[Programmers](https://programmers.co.kr/)| 42586 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|  Lv.2 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_20/P42586.js) |
+|[Programmers](https://programmers.co.kr/)| 12951 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|  Lv.2 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_20/P12951.js) |
