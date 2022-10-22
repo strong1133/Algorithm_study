@@ -1,4 +1,4 @@
-// 22-10-20 프로그래머스 - Let`s Exit 주간 알고리즘 > 가장 큰 수
+// 22-10-27 프로그래머스 - Let`s Exit 주간 알고리즘 > 가장 큰 수
 
 function solution(numbers) {
 
