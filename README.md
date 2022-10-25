@@ -31,3 +31,4 @@
 |:------:|:------:|:----:|:---------:|:---------:|
 |[Programmers](https://programmers.co.kr/)| 42746 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|  Lv.2 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_27/P42746.js) |
 |[Programmers](https://programmers.co.kr/)| 12941 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|  Lv.2 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_27/P42746.js) |
+|[Programmers](https://programmers.co.kr/)| 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|  Lv.2 | [풀이](https://github.com/strong1133/Algorithm_study/blob/main/lets_exit/2022_10_27/P12924.js) |
