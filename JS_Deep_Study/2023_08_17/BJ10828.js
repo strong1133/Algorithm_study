@@ -2,7 +2,7 @@
 
 const main = () => {
 //   const array = require("fs")
-//     .readFileSync("./input.txt")
+//     .readFileSync("./BJ10828_input.txt")
 //     .toString()
 //     .split("\n");
     const array = require("fs").readFileSync("/dev/stdin").toString().split("\n");
