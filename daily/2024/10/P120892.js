@@ -1,10 +1,19 @@
 // #2024-10-08 :: 프로그래머스 - 암호 해독
+function solution(cipher, code) {
+  let answer = "";
 
-function solution(order) {
-  let answer = 0;
 
-  for(let i of order.toString().split(""))
-    if(i == 3 || i == 6 || i == 9) answer++;
+  for(let idx in cipher){
+    let determine = parseInt(idx) +1;
+    if(determine % code == 0){
+      answer += cipher[idx];
+    }
+
+
+  }
+  
+
   return answer;
 }
-console.log(solution(29423));
+
+console.log(solution("dfjardstddetckdaccccdegk", 4));
