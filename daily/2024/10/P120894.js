@@ -6,14 +6,11 @@ function solution(numbers) {
   let answer = "";
 
   for(let str of arr){
-    
     numbers = numbers.replaceAll(str, arr.indexOf(str));
-
-
   }
 
   console.log(parseInt(numbers));
-
+  answer = numbers;
   return answer;
 }
 
