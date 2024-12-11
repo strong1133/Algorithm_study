@@ -1,4 +1,4 @@
-// #2024-12-11 :: 백준 - A*B
+// #2024-12-11 :: 백준 - A/B
 
 
 function solution() {
@@ -11,7 +11,7 @@ const input = fs.readFileSync("/dev/stdin").toString().split(' ');
 const A = parseInt(input[0]);
 const B = parseInt(input[1]);
 
-console.log(A * B);
+console.log(A / B);
 }
 
 
